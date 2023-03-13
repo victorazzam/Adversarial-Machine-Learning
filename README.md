@@ -5,7 +5,7 @@ Offensive and defensive examples.
 ## Contents
 
  - Code examples
- - Jupyter notebooks (extract from `notebooks.tar.gz`)
+ - Jupyter notebooks (extract using `tar xf notebooks-EXTRACT-FIRST.tar.gz`)
  - Docker pre-built image
  - PDF walkthrough guide
  - Sources and extra links
